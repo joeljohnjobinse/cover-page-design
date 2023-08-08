@@ -133,7 +133,7 @@ Run the webpage and screenshot the output.
 ```
 
 ## Output:
-![Cover](/static/images/cover.jpg)
+![Cover](/static/images/cover.JPG)
 
 ## Result:
 The program is executed successfully.
